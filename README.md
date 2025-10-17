@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Ironsakit and I'm an IT student from Italy🍕</h2>
+<h2 align="center">Hi! My name is Ironsakit and I'm an IT student from Italy🍕</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ironsakit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />

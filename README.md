@@ -43,8 +43,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ironsakit/ironsakit/output/snake.svg" alt="Snake animation" />
 
 ###

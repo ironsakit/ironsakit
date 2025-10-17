@@ -31,7 +31,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ironsakit/ironsakit/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ironsakit/ironsakit/output/snake.svg" alt="Snake animation" />
+</div>
 ###

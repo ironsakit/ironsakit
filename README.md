@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Mattia Ferro!
 
 🎓 I'm an **Informatics student** passionate about coding, problem-solving, and creating games.  
 💻 Currently sharpening my skills by solving challenging exercises on **[CodeWars](https://www.codewars.com/)** and building small but creative games using **Unity** and **Godot**.  

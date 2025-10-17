@@ -30,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
 </div>
 
-###
 <div align="center">
   <img src="https://raw.githubusercontent.com/ironsakit/ironsakit/output/snake.svg" alt="Snake animation" />
 </div>
-###

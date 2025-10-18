@@ -9,7 +9,7 @@
 
 <div align="center">
   <h2 align="center">This is me :3</h2>
-  <img width="377" height="212" alt="image" src="https://static.wikia.nocookie.net/f33f8fd3-a410-4c22-9c9b-b4e10e141cc8/scale-to-width/755"/>
+  <img width="377" height="212" alt="image" src="https://i.redd.it/bioufxd1ehse1.gif"/>
 
 </div>
 

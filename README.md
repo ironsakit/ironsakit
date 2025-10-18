@@ -10,7 +10,7 @@
   <!-- GIF -->
   <div align="center">
     <h2>This is me btw:</h2>
-    <img width="200" height="200" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVobWdrMnRoZmJpdHRlanl6MzFmcWI4Z28zOThrNGluMm1nN3BseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEXEVoZe5J5Fyx6J4v/giphy.gif"/>
+    <img width="100" height="100" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVobWdrMnRoZmJpdHRlanl6MzFmcWI4Z28zOThrNGluMm1nN3BseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEXEVoZe5J5Fyx6J4v/giphy.gif"/>
   </div>
   <!-- LINGUAGGI -->
   <div align="center">

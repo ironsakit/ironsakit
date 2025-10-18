@@ -6,11 +6,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ironsakit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+<div align="center">
   
   <!-- LINGUAGGI -->
-  <div align="left">
-    <h3>My programming languages:</h3>
+  <div align="center">
+    <h2>My programming languages:</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
@@ -21,7 +21,8 @@
   </div>
 
   <!-- GIF -->
-  <div align="right">
+  <div align="center">
+    <h2>This is me btw:</h2>
     <img width="300" height="300" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVobWdrMnRoZmJpdHRlanl6MzFmcWI4Z28zOThrNGluMm1nN3BseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEXEVoZe5J5Fyx6J4v/giphy.gif"/>
   </div>
 

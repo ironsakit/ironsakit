@@ -1,10 +1,12 @@
 <h2 align="center">Hi! My name is Ironsakit and I'm an IT student from Italy🍕</h2>
-<div align="center">
-  <div align="left">
+
+
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ironsakit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ironsakit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-    
   </div>
+
+<div align="center">
   <div align="right">
     <img width="300" height="300" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVobWdrMnRoZmJpdHRlanl6MzFmcWI4Z28zOThrNGluMm1nN3BseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEXEVoZe5J5Fyx6J4v/giphy.gif"/>
   </div>

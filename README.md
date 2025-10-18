@@ -9,7 +9,7 @@
 
 <div align="center">
   <h2 align="center">This is me :3</h2>
-  <img width="400" height="400" alt="image" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fbioufxd1ehse1.gif"/>
+  <img width="400" height="400" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVobWdrMnRoZmJpdHRlanl6MzFmcWI4Z28zOThrNGluMm1nN3BseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEXEVoZe5J5Fyx6J4v/giphy.gif"/>
 
 </div>
 

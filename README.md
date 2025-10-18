@@ -9,7 +9,7 @@
 
 <div align="center">
   <h2 align="center">This is me :3</h2>
-  <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"/>
+  <img width="498" height="479" alt="image" src="https://github.com/user-attachments/assets/fbd2beab-af7a-428a-8f0b-a67f1bab33dd" />
 </div>
 
 <div align="center">

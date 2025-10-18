@@ -9,7 +9,7 @@
 
 <div align="center">
   <h2 align="center">This is me :3</h2>
-  <img width="377" height="212" alt="image" src="https://i.redd.it/bioufxd1ehse1.gif"/>
+  <img width="377" height="212" alt="image" src="[https://i.redd.it/bioufxd1ehse1.gif](https://i.redd.it/bioufxd1ehse1.gif)"/>
 
 </div>
 

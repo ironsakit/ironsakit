@@ -9,7 +9,8 @@
 
 <div align="center">
   <h2 align="center">This is me :3</h2>
-  <img width="498" height="479" alt="image" src="https://github.com/user-attachments/assets/fbd2beab-af7a-428a-8f0b-a67f1bab33dd" />
+  <img width="755" height="424" alt="image" src="[https://github.com/user-attachments/assets/c6bd9489-d9cf-4c25-81a1-017f773796c3](https://static.wikia.nocookie.net/f33f8fd3-a410-4c22-9c9b-b4e10e141cc8/scale-to-width/755)"/>
+
 </div>
 
 <div align="center">

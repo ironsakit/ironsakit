@@ -4,7 +4,7 @@
 <div align="center">
   <!-- GIF -->
   <div align="center">
-    <h2>This is me btw:</h2>
+    <h3>This is me btw:</h3>
     <img width="180" height="180" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVobWdrMnRoZmJpdHRlanl6MzFmcWI4Z28zOThrNGluMm1nN3BseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEXEVoZe5J5Fyx6J4v/giphy.gif"/>
   </div>
   <!-- FINE GIF -->

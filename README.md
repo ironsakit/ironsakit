@@ -22,7 +22,7 @@
   <!-- FINE LINGUAGGI -->
   <hr>
   <!-- INIZIO SNAKE -->
-  ### Crazy snake doing chores for me
+  <h3> Crazy snake doing chores for me </h3>
   <img src="https://raw.githubusercontent.com/ironsakit/ironsakit/output/snake.svg" alt="Snake animation" />
   <!-- INIZIO SNAKE -->
 </div>

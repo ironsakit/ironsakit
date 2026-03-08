@@ -5,7 +5,7 @@
   <!-- GIF -->
   <div align="center">
     <h3>This is me btw:</h3>
-    <img width="180" height="180" alt="image" src="https://media1.tenor.com/m/cBD0C0fhgDEAAAAd/higuruma-jjk.gif"/>
+    <img width="280" height="280" alt="image" src="https://media1.tenor.com/m/cBD0C0fhgDEAAAAd/higuruma-jjk.gif"/>
   </div>
   <!-- FINE GIF -->
   <hr>

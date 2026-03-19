@@ -1,6 +1,6 @@
 <!-- TITOLO -->
 <h2 align="center">Hi! My name is Ironsakit and I'm an IT student from Italy🍕</h2>
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fironsakit&countColor=%23263759)
 <div align="center">
   <!-- GIF -->
   <div align="center">

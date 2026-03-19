@@ -1,6 +1,5 @@
 <!-- TITOLO -->
 <h2 align="center">Hi! My name is Ironsakit and I'm an IT student from Italy🍕</h2>
-!(https://profile-counter.glitch.me/ironsakit/count.svg)
 <div align="center">
   <!-- GIF -->
   <div align="center">
